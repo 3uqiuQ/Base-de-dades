@@ -1,4 +1,4 @@
 # M1_T01
-Exercicis: 1 / 7
+Exercicis M1_T01
 
 He afegit la versió en PDF per si un cas..
